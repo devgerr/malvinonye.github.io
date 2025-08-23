@@ -19,10 +19,17 @@ body {
     max-width: 300px;
 }
 
-.sidebar img {
+/* .sidebar img {
     width: 100%;
     border-radius: 100%;
     margin-bottom: 15px;
+} */
+
+.sidebar img {
+    width: 150px;   /* adjust number until it looks right */
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto 15px auto;  /* centers the image */
 }
 
 .sidebar h1 {
