@@ -26,10 +26,11 @@ body {
 } */
 
 .sidebar img {
-    width: 150px;   /* adjust number until it looks right */
+    max-width: 130px;
+    width: 80%;
     border-radius: 50%;
     display: block;
-    margin: 0 auto 15px auto;  /* centers the image */
+    margin: 0 auto 15px auto;
 }
 
 .sidebar h1 {
