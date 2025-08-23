@@ -26,9 +26,9 @@ body {
 } */
 
 .sidebar img {
-    max-width: 100px;
+    max-width: 150px;
     width: 80%;
-    border-radius: 50%;
+    border-radius: 100%;
     display: block;
     margin: 0 auto 15px auto;
 }
